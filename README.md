@@ -21,8 +21,8 @@ Here are some of the project screen shots.<br><br><br>
 
 In the command terminal, run the following commands:
 
-    $ git clone https://github.com/idkashutosh/media-streaming-app.git podoriginals
-    $ cd media-streaming-app/
+    $ git clone https://github.com/idkashutosh/media-streaming-app-ui.git
+    $ cd media-streaming-app-ui/
     $ flutter packages get
     $ flutter run
 
